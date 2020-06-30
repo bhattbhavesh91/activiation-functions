@@ -1,5 +1,13 @@
-# Pros & Cons of Sigmoid Activation Function
-## To view the video
+# Activation Functions in Neural Networks
+
+## 1 Derivative of the Sigmoid Activation function
+* [Click here](https://youtu.be/G6djH3I0rG0)
+* Click on the image below
+
+[![Derivative of the Sigmoid Activation function](http://img.youtube.com/vi/G6djH3I0rG0/0.jpg)](http://www.youtube.com/watch?v=G6djH3I0rG0)
+
+
+## 2 Pros & Cons of Sigmoid Activation Function
 * [Click here](https://youtu.be/84T5l_bGhP0)
 * Click on the image below
 
